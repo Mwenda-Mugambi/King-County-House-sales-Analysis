@@ -1,4 +1,4 @@
-# Phase 2 Project Submission
+# King County House Sales Analysis
 
 ![King County House Sales](https://github.com/angibor/dsc-phase-2-project-v2-3/assets/137016696/a6703f85-f879-4022-8651-33f10d6830ee)
 
